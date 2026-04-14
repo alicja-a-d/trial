@@ -1,4 +1,4 @@
-# Global innovation index (gii) predictor
+# Global Innovation Index predictor
 
 ## Project overview
 This research identifies driving factors of innovation using machine learning. It utilises the 2024 WIPO GII data and World Bank edStats to analyse how investments and outputs contribute to national innovation levels.
